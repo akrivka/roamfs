@@ -1,8 +1,11 @@
+> [!WARNING]
+> This plugin is currently unmaintained!
+
+# roamfs — Sync code blocks with local files!
+
+`roamfs` allows you to write your code in your favorite code editor and get it synced to a Roam code block. Ideal for learning [[roam/render]]!
+
 ![](docs/assets/roamfs.gif)
-
-# RoamFS
-
-Allows you to write your code in your favorite code editor and get it synced to a Roam code block. Ideal for learning [[roam/render]]!
 
 ## How to install
 
